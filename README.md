@@ -3,6 +3,6 @@ Comando creado en Python que permite cambiar una palabra por otra en un archivo 
 
 Forma de uso:
 
-cambiapalabra archivo original nueva
+cambiapalabra 
 
 
